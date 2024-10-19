@@ -1,5 +1,9 @@
 This repo contains a simple graphics engine that is built with JavaScript and uses the WebGL graphics library.
 
+YouTube links that show the engine working and an overview of the code, respectively:
+https://youtu.be/jUj5alUma5Q
+https://youtu.be/1WJZiFWgi9A
+
 My hope is that this will be useful to anyone who wants a guide on getting WebGL to work.
 
 The code is covered under a MIT License.
